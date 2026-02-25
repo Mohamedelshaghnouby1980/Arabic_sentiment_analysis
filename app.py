@@ -15,3 +15,4 @@ if st.button("تحليل"):
         st.write(f"النتيجة: {result}")
     else:
         st.write("من فضلك اكتب نصاً أولاً!")
+            
